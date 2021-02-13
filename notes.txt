@@ -1,0 +1,5 @@
+tsc --init
+
+npm i -g typescript ts-node prettier nodemon
+
+/build/server.js
